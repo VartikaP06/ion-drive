@@ -1,16 +1,23 @@
 {
-  "name": "ion-drive",
+  "name": "mars-ion-drive",
   "version": "1.0.0",
-  "description": "",
+  "description": "let's get to mars",
+  "keywords": [
+    "mars"
+  ],
+  "homepage": "https://github.com/VartikaP06/ion-drive#readme",
+  "bugs": {
+    "url": "https://github.com/VartikaP06/ion-drive/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VartikaP06/ion-drive.git"
+  },
   "license": "ISC",
   "author": "Vartika Priyadarshini",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "lodash": "^4.17.23",
-    "underscore": "^1.13.8"
   }
 }
